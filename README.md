@@ -1,4 +1,4 @@
-# sgl-challenge
+# SQL-challenge
 
 This project takes data from a ficitonal company (Pewlett Hackard) to show who the company employed in the 1980's and the 1990's. All that remains for that timeframe are 6 csv files. With those files I will create various tables using sql to better answer questions regarding the data. This project will show data engineering, and data analysis.
 
